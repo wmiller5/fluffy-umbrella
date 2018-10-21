@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 07 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -35,23 +35,33 @@ Describe at a high level a program that could solve that problem.
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+   College Calender
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
+   The program will output a list of all coming assignments ordered by due date. For those due on the same date, order them by their weights on grade. 
+   ex. Journalism MediaAnalysisEssay 10/26/2018 9:55am 15%
+       History paper 10/26/2018 11:59pm 20%
+       Computer Science p3 10/29/2018 11:59pm 10%
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
+   There are two functions of the program. 
+   * Input information of the assignment. 
+   assignmentName, dueDate, subject, weight
+   ex. MediaAnalysisEssay, 10/26/2018 9:55am, Journalism, 15%
+   * Current date on which the user want a schedule.
+   ex. 10/31/2018
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+   Text interface.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+   AssignmentNode(String name, String due, String subject, int weight)
+   CustomLinkedList
+   Main (enable the user to run other staff)
 
 
 Name each interface or class and briefly describe its function or purpose.
