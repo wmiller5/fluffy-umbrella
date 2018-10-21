@@ -1,4 +1,4 @@
-# xteam-exercise-2: https://github.com/<wmiller5>/<fluffy-umbrella>
+# xteam-exercise-2: https://github.com/wmiller5/fluffy-umbrella
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
