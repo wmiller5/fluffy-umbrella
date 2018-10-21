@@ -12,7 +12,7 @@
        * GitHub username 3: LeoWu1 name 3:Leo Wu
        * GitHub username 4: qjiang310 name 4: Qinjun Jiang
    * When did you complete this exercise? Sunday afternoon.
-   * How long did it take your team to complete this exercise? we started at 1:30, and finished before 2:30
+   * How long did it take your team to complete this exercise? we started at 1:30, and finished before 3:00
 
 ## Table of Contents
 
