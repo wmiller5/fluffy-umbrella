@@ -11,8 +11,8 @@
        * GitHub username 2: eroot2 name 2:Ethan Root
        * GitHub username 3: LeoWu1 name 3:Leo Wu
        * GitHub username 4: qjiang310 name 4: Qinjun Jiang
-   * When did you complete this exercise? Sunday afternoon.
-   * How long did it take your team to complete this exercise? we started at 1:30, and finished before 3:00
+   * When did you complete this exercise? Oct 21st, Sunday afternoon.
+   * How long did it take your team to complete this exercise? We started at 1:30, and finished before 3:00
 
 ## Table of Contents
 
