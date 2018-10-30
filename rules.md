@@ -10,9 +10,9 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-Assign: Check every teammates' strength and weakness and everyone volunteer to take their own task within two days learning the team task.
+* Assign: Check every teammates' strength and weakness and everyone volunteer to take their own task within two days learning the team task.
 
-Reassign: In case there may be some disagreement in the assignment, reassignment will be made with every teammate present and after discussion, taking the progress that has been made into consideration.
+* Reassign: In case there may be some disagreement in the assignment, reassignment will be made with every teammate present and after discussion, taking the progress that has been made into consideration.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
@@ -29,6 +29,9 @@ Emergency difficulties can be discussed through video meeting or group chat.
 Let teammates know regularly what your progress is, what your difficulties are, if there is some possibility that you could not follow your shedule, let teammates know and help the sooner, the better.
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+1. Make sure everyone feels accepted and competent
+2. Always reply to the message
+3. Inform any difficulty in time and ask for help
+4. Update progress regularly
 
 
